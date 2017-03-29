@@ -3,3 +3,7 @@ function test(){
 		console.log(i);
 	}
 }
+
+function second(){
+	// je ne sers a rien
+}
